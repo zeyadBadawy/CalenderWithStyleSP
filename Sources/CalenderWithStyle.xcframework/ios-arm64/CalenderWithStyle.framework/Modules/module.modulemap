@@ -1,0 +1,11 @@
+framework module CalenderWithStyle {
+  umbrella header "CalenderWithStyle.h"
+
+  export *
+  module * { export * }
+}
+
+module CalenderWithStyle.Swift {
+    header "CalenderWithStyle-Swift.h"
+    requires objc
+}
