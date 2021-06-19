@@ -9,7 +9,9 @@ let package = Package(
         .iOS(.v13)
     ],
     products: [
-        
+        .library(
+            name: "CalendarWithStyle",
+            targets: ["CalendarWithStyle"]),
     ],
     targets: [
 
