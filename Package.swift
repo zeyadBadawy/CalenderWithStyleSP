@@ -29,7 +29,7 @@ let package = Package(
             dependencies: ["CalenderWithStyleSP"]),
         .binaryTarget(
                 name: "CalendarWithStyle",
-                path: "./Sources/CalendarWithStyle.xcframework"),
+                path: "./Sources/CalenderWithStyle.xcframework"),
         
     ]
 )
