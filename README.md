@@ -1,3 +1,3 @@
 # CalenderWithStyleSP
 
-A description of this package.
+a calender view with style.
